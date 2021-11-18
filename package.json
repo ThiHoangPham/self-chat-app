@@ -1,0 +1,24 @@
+{
+  "name": "self-chat-app",
+  "version": "1.0.0",
+  "description": "A Funny Chat App runs on NodeJS, Express and WebSockets which is allows you send messages to yourself.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ThiHoangPham/self-chat-app.git"
+  },
+  "author": "Thai Hoang (ADAM)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ThiHoangPham/self-chat-app/issues"
+  },
+  "homepage": "https://github.com/ThiHoangPham/self-chat-app#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nodemon": "^2.0.15",
+    "socket.io": "^4.4.0"
+  }
+}
