@@ -1,0 +1,21 @@
+body{
+    font-family: 'Helvetica Neue';
+    font-size: 20px;
+    font-weight: normal;
+}
+
+main{
+    width: 400px;
+    margin: auto;
+    margin-top: 50px;
+}
+
+section{
+    height: 300px;
+    overflow: scroll;
+    padding: 25px 25px 0 25px;
+}
+
+section br {
+    clear: both;
+}
