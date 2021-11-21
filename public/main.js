@@ -4,7 +4,7 @@ const form = document.querySelector('form');
 
 form.addEventListener('submit', function (e) {
     e.preventDefault();
-    const input = document.querySelector('message');
+    const input = document.querySelector('#message');
     const text = input.value;
     socket.emit('message', text);
     input.value = '';
