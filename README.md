@@ -1,7 +1,6 @@
-# self-chat-app
 ![Self Chat App](./public/self-chat-app-img.png)
 <h1 align="center"> Express.JS: 
-<br>Note Taker 👋</h1>
+<br>Self Chat App 👋</h1>
 <p align="center">
   <a href="#">
   <img alt="html" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" target="_blank" />
